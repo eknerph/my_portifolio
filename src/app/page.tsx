@@ -21,7 +21,16 @@ export default function Home() {
           <h3>Expirence</h3>
           <p>texto</p>
           <div className="expirence-time">
-            
+
+          </div>
+          <div className="infos">
+            <h3>Languages</h3>
+            <div className="languages-info">
+              <span> 🇺🇸 EN - Fluent</span>
+              <span> 🇧🇷 PT-BR - Native Speaker</span>
+            </div>
+            <h3>Education</h3>
+            <span></span>
           </div>
         </div>
       </main>      
