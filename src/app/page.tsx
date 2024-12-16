@@ -30,7 +30,11 @@ export default function Home() {
               <span> 🇧🇷 PT-BR - Native Speaker</span>
             </div>
             <h3>Education</h3>
-            <span></span>
+            <div className="educational-info">
+            <span>🎓</span>
+            <span>Technologist in Systems Analysis and Development - Unifran Graduação EAD</span>
+
+            </div>
           </div>
         </div>
       </main>      
