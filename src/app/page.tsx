@@ -17,6 +17,13 @@ export default function Home() {
           </div>
 
         </div>
+        <div className="expirence">
+          <h3>Expirence</h3>
+          <p>texto</p>
+          <div className="expirence-time">
+            
+          </div>
+        </div>
       </main>      
   )
 }
