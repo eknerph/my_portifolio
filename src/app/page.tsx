@@ -19,7 +19,7 @@ export default function Home() {
         </div>
         <div className="expirence">
           <h3>Expirence</h3>
-          <p>texto</p>
+          <p>06 Meses de expeeriência adiquido em treinamento para desenvolvimento pessoal e terceiros.</p>
           <div className="expirence-time">
 
           </div>
