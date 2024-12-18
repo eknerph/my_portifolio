@@ -36,7 +36,12 @@ export default function Home() {
 
             </div>
           </div>
-          <div className="buttons"></div>
+          <div className="buttons">
+            <div className="social">
+
+            </div>
+            <button>Contact me!</button>
+          </div>
         </div>
       </main>      
   )
