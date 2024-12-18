@@ -40,7 +40,7 @@ export default function Home() {
             <div className="social">
 
             </div>
-            <button>Contact me!</button>
+            <button>contact me</button>
           </div>
         </div>
       </main>      
