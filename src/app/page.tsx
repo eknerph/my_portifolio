@@ -4,7 +4,7 @@ import { Header } from './components/header'
 export default function Home() {
   return (
      <main>
-        </Header>
+        <Header/>
         <div className="expirence">
           <h3>Expirence</h3>
           <p>06 Meses de expeeriência adiquido em treinamento para desenvolvimento pessoal e terceiros.</p>

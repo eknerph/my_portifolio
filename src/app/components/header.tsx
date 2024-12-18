@@ -2,7 +2,7 @@ import Image from 'next/image'
 export function Header(){
   return
     <div className="header">
-      <<div className="header">
+      <div className="header">
           <Image
             src="/next.svg"
             alt="Next.js logo"
