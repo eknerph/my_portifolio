@@ -5,7 +5,7 @@ import "./globals.scss";
 
 const poppins = Poppins({
   variable: "--font-poppins",
-  subsets: ["latin"],
+  subsets: ["latin"]
 });
 
 const geistSans = Geist({
