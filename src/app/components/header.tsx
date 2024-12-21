@@ -12,8 +12,8 @@ export function Header(){
           <Image
             src="/me.svg"
             alt="Next.js logo"
-            width={100}
-            height={24}
+            width={325}
+            height={277}
             priority
           />        
         </div>
