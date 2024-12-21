@@ -10,7 +10,7 @@ export function Header(){
             <h2>Software Enginner</h2>
           </div>
           <Image
-            src="/next.svg"
+            src="/me.svg"
             alt="Next.js logo"
             width={100}
             height={24}
