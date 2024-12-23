@@ -3,7 +3,7 @@ import { Header } from './components/header'
 
 export default function Home() {
   return (
-     <main>
+     <main className="container">
         <Header/>
         <div className="expirence">
           <h3>Expirence</h3>
