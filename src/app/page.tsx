@@ -6,12 +6,6 @@ export default function Home() {
   return (
      <main className="container">
         <Header/>
-        <div className="expirence">
-          <h3>Expirence</h3>
-          <p>06 Meses de experiência adiquido em treinamento para desenvolvimento pessoal e terceiros.</p>
-          <div className="expirence-time">
-
-          </div>
           <div className="infos">
             <h3>Languages</h3>
             <div className="languages-info">
@@ -31,7 +25,7 @@ export default function Home() {
             </div>
             <button>contact me</button>
           </div>
-        </div>
+       
       </main>      
   )
 }
