@@ -4,8 +4,6 @@
   grid-area: header;
   gap: 24px;
 
-  color: var(--text-primary);
-
   image {
     border-radius: 24px;
   }
@@ -22,6 +20,7 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 38px;
+    color: var(--text-secondary);
   }
 
   @media (min-width: 768px) {
