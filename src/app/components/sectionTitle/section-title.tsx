@@ -1,7 +1,7 @@
 interface SectioTitleProps {
-
+    text: string
 }
 export function SectionTitle(props : SectionTitleProps) {
     return 
-        <h2></h2>
+        <h3></h3>
 }
