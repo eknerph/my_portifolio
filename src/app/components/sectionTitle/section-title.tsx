@@ -1,7 +1,7 @@
-interface SectioTitleProps {
+interface SectionTitleProps {
     text: string
 }
-export function SectionTitle(props : SectionTitleProps) {
+export function SectionTitle({ text } : SectionTitleProps) {
     return 
-        <h3></h3>
+        <h3 className="section-title">(text)</h3>
 }
