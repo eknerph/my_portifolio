@@ -14,9 +14,11 @@
     }
 
     @media (min-width: 768px) {
-        font-size: 18px;
-        line-height: 2px;
-        color: var(--text-primary);
-        text-align: start;
+        p {
+            font-size: 18px;
+            line-height: 2px;
+            color: var(--text-primary);
+            text-align: start;
+        }
     }
 }
