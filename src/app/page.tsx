@@ -6,6 +6,7 @@ export default function Home() {
   return (
      <main className="container">
         <Header/>
+        <Experience/>
           <div className="infos">
             <h3>Languages</h3>
             <div className="languages-info">
