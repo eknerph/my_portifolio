@@ -1,4 +1,4 @@
-"/information.scss"
+import "/information.scss"
 
 }
 export function Info(props : InfoProps) {
