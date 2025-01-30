@@ -26,7 +26,7 @@ export default function Home() {
             <div className="social">
 
             </div>
-            <button>contact me</button>
+            <button className="btn-primary">contact me</button>
           </div>
        
       </main>      
