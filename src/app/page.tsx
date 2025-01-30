@@ -1,4 +1,5 @@
 import { Header } from './components/header'
+import { Info } from './components/information/informatin'
 
 import "./styles/home.scss"
 
@@ -7,6 +8,7 @@ export default function Home() {
      <main className="container">
         <Header/>
         <Experience/>
+        <Info/>
           <div className="infos">
             <h3>Languages</h3>
             <div className="languages-info">
