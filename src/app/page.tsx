@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import { Header } from './components/header'
 import { Info } from './components/information/informatin'
 
@@ -26,7 +27,16 @@ export default function Home() {
             <div className="social">
 
             </div>
-            <button className="btn-primary">contact me</button>
+            <button className="btn-primary">
+              contact me
+              <Image
+                src="/email-icon.svg"
+                alt="Email icon"
+                width={325}
+                height={310}
+                priority
+              />
+            </button>
           </div>
        
       </main>      
