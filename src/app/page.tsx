@@ -29,13 +29,7 @@ export default function Home() {
             </div>
             <button className="btn-primary">
               contact me
-              <Image
-                src="/email-icon.svg"
-                alt="Email icon"
-                width={325}
-                height={310}
-                priority
-              />
+              <EmailIcon/>
             </button>
           </div>
        
