@@ -9,7 +9,9 @@ export default function SocialBtns(props : SocialBtnsProps){
             <a href="">
                 <InstaIcon/>
             </a>
-            <a href=""></a>
+            <a href="">
+                LinkedinIcon
+            </a>
             <a href=""></a>
             <a href=""></a>
             
