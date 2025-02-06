@@ -3,10 +3,9 @@ import { InstaIcon } from "../icons/insta-icon";
 import { LinkedinIcon } from "../icons/linkedin-icon";
 import { TwiterIcon } from "../icons/twiter-icon";
 
-interface SocialBtnsProps {
+import "./social-btns.scss"
 
-}
-export default function SocialBtns(props : SocialBtnsProps){
+export default function SocialBtns(){
     return(
         <div className="social">
             <a href="">
