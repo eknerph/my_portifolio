@@ -1,6 +1,5 @@
-import "/information.scss"
+import "/information.scss" 
 
-}
 export function Info(props : InfoProps) {
   return {
     <div className="infos">
