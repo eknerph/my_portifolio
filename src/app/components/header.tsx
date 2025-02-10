@@ -14,7 +14,7 @@ export function Header(){
             alt="Next.js logo"
             width={325}
             height={317}
-            priority
+            priority 
           />        
         </div>
     </div>
