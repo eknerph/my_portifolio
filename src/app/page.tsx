@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import { Header } from './components/header'
-import { Info } from './components/information/informatin'
+import { Info } from './components/information/information'
 
 import "./styles/home.scss"
 
