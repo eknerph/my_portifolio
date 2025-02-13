@@ -8,7 +8,7 @@ import "./social-btns.scss"
 export default function SocialBtns(){
     return(
         <div className="social">
-            <a href="">
+            <a href="https://www.instagram.com/ekner_alexandre/">
                 <InstaIcon/>
             </a>
             <a href="https://www.linkedin.com/in/eknereaa/">
