@@ -11,7 +11,7 @@ export default function SocialBtns(){
             <a href="">
                 <InstaIcon/>
             </a>
-            <a href="">
+            <a href="https://www.linkedin.com/in/eknereaa/">
                 <LinkedinIcon/>
             </a>
             <a href="">
