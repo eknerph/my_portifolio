@@ -14,7 +14,7 @@ export default function SocialBtns(){
             <a href="https://www.linkedin.com/in/eknereaa/">
                 <LinkedinIcon/>
             </a>
-            <a href="">
+            <a href="https://github.com/eknerph">
                 <GithubIcon/>
             </a>
             <a href="https://x.com/AlexandreEtech">
