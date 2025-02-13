@@ -17,7 +17,7 @@ export default function SocialBtns(){
             <a href="">
                 <GithubIcon/>
             </a>
-            <a href="">
+            <a href="https://x.com/AlexandreEtech">
                 <TwiterIcon/>
             </a>
             
