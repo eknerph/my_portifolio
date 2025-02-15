@@ -1,13 +1,15 @@
 import { SectionTitle } from "../sectionTitle/section-title"
 
 import "./experience.scss"
-export function Expirence(){
+export function Experience(){
   return(
-    <div className="expirence">
-          <h3>Expirence</h3>
+    <div className="experience">
+          <h3>Experience</h3>
           <p>06 Meses de experiência adiquido em treinamento para desenvolvimento pessoal e terceiros.</p>
-          <div className="expirence-time">
-            
+          <div className="experience-time">
+            <div>
+              
+            </div>
           </div>
         </div>
   )
