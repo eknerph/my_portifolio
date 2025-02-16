@@ -25,6 +25,15 @@ export function Experience(){
                 priority 
               />        
             </div>
+            <div>
+              <Image
+                src="/js.png"
+                alt="JavaScript logo"
+                width={50}
+                height={50}
+                priority 
+              />        
+            </div>
           </div>
         </div>
   )
