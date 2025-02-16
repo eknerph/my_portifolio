@@ -9,10 +9,19 @@ export function Experience(){
           <div className="experience-time">
             <div>
               <Image
-                src="/react.svg"
-                alt="Next.js logo"
-                width={325}
-                height={317}
+                src="/react.png"
+                alt="React logo"
+                width={50}
+                height={50}
+                priority 
+              />        
+            </div>
+            <div>
+              <Image
+                src="/ts.png"
+                alt="TypyScript logo"
+                width={50}
+                height={50}
                 priority 
               />        
             </div>
