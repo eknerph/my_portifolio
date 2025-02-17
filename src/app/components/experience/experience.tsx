@@ -14,7 +14,10 @@ export function Experience(){
                 width={50}
                 height={50}
                 priority 
-              />        
+              />
+              <div className="experience-unit">
+              
+              </div>        
             </div>
             <div>
               <Image
