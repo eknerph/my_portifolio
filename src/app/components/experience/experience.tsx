@@ -16,7 +16,10 @@ export function Experience(){
                 priority 
               />
               <div className="experience-unit">
-              
+                <div className="experience-measure">
+                  <span>06 meses</span>
+                  <span>Junho</span>
+                </div>
               </div>        
             </div>
             <div>
