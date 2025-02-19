@@ -19,7 +19,7 @@ export function Experience() {
             <div className="experience-measure"></div>
           </div>
         </div>
-        <div >
+        <div className="experience-language">
           <Image
             src="/ts.png"
             alt="TypeScript logo"
