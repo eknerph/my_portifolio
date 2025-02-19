@@ -7,7 +7,7 @@ export function Experience() {
       <h3>Experience</h3>
       <p>06 Meses de experiência adiquido em treinamento para desenvolvimento pessoal e terceiros.</p>
       <div className="experience-time">
-        <div>
+        <div className="experience-language">
           <Image
             src="/react.png"
             alt="React logo"
@@ -16,8 +16,7 @@ export function Experience() {
             priority
           />
           <div className="experience-unit">
-            <div className="experience-measure">
-            </div>
+            <div className="experience-measure"></div>
           </div>
         </div>
         <div>
