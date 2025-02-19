@@ -19,7 +19,7 @@ export function Experience() {
             <div className="experience-measure"></div>
           </div>
         </div>
-        <div>
+        <div >
           <Image
             src="/ts.png"
             alt="TypeScript logo"
@@ -28,7 +28,7 @@ export function Experience() {
             priority
           />
         </div>
-        <div>
+        <div className="experience-language">
           <Image
             src="/js.png"
             alt="JavaScript logo"
