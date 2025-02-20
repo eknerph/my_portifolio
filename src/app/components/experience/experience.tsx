@@ -37,7 +37,7 @@ export function Experience() {
             priority
           />
         </div>
-        <div>
+        <div className="experience-language">
           <Image
             src="/java.png"
             alt="Java logo"
