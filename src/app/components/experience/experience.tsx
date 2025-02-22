@@ -41,7 +41,7 @@ export function Experience() {
           <Image
             src="/java.png"
             alt="Java logo"
-            width={50}
+            width={30}
             height={50}
             priority
           />
