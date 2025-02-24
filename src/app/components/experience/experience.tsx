@@ -39,6 +39,9 @@ export function Experience() {
             height={50}
             priority
           />
+          <div className="experience-unit">
+            <div className="experience-measure-3"></div>
+          </div>
         </div>
         <div className="experience-language">
           <Image
